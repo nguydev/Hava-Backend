@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782790184430",
+    "project_id": "goodr-hvac",
+    "storage_bucket": "goodr-hvac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782790184430:android:70f76d478422c542a3d2ff",
+        "android_client_info": {
+          "package_name": "com.goodr.hvac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlpo_P1MrlXp2L8IShIF_oYucqADnsZQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
